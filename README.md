@@ -17,11 +17,11 @@ Referral Confirmation
 
 <img width="670" alt="Screenshot 2022-06-30 230819" src="https://user-images.githubusercontent.com/100461605/176742521-f24d5a99-d9c9-44e8-8529-45f189404a2d.png">
 
-
+List of candidates referred at a particular period of time
 
 <img width="671" alt="Screenshot 2022-06-30 230833" src="https://user-images.githubusercontent.com/100461605/176742584-75885af1-8932-41f9-9b2a-f28e648dd854.png">
 
-List of candidates referred at a particular period of time
+
 
 <img width="671" alt="Screenshot 2022-06-30 230847" src="https://user-images.githubusercontent.com/100461605/176743132-bfac5103-e483-49ac-834b-ec715f04ca14.png">
 
