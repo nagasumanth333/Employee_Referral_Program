@@ -1,6 +1,6 @@
 # Employee_Referral_Program
 
-his is a Web Application where users can enter the details of the Employee
+This is a Web Application where users can enter the details of the Employee
 they wish to refer to the company.Users can also check the referrals they have provided during a particular
 period of time. Here are some of the screenshots of the Application- 
 
